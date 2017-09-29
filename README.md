@@ -169,4 +169,5 @@ Android开源库以及一些好的技巧知识
 	职友圈/看准网
 
 - 制作GIF工具
+
 	[动画制作小软件GifMaker](http://download.csdn.net/download/gao_chun/9077023)
